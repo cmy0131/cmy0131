@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&fontSize=30&text=IT%20전문가%20지망생&animation=scaleln)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=80&section=header&fontSize=40&text=IT%20전문가%20지망생&animation=scaleln)
 
 ```
 "안녕 나는 미래의 IT 전문가야 잘 부탁해"
