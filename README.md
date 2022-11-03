@@ -6,9 +6,9 @@
 
 <image src='images/감자.png' width=200 height=200></image>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=cmy0131&show_icons=true&theme=radical)](https://github.com/cmy0131)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=cmy0131&show_icons=true&theme=tokyonight)](https://github.com/cmy0131)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmy0131&layout=compact)](https://github.com/cmy0131/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmy0131&layout=compact&theme=dracula)](https://github.com/cmy0131/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/-Python-123456?style=flat-square&logo=Python&logoColor=blue)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
