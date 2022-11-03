@@ -4,7 +4,7 @@
 "안녕 나는 미래의 IT 전문가야 잘 부탁해"
 ```
 
-<image src='images/감자.png' width=200 height=200></image>
+<!-- <image src='images/감자.png' width=200 height=200></image> -->
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=cmy0131&show_icons=true&theme=tokyonight)](https://github.com/cmy0131)
 
