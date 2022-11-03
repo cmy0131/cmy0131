@@ -1,6 +1,10 @@
-<image src='images/감자.jpg' width=200 height=200></image>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&fontSize=50&text=IT%20전문가%20지망생&animation=scaleln)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+```
+"Hi everyone!!"
+```
+
+<image src='images/감자.png' width=200 height=200></image>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=cmy0131)](https://github.com/cmy0131)
 
@@ -14,26 +18,16 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-[네이버 가자](http://naver.com)
 
-```
-print("파이선 출력!!")
-```
-:smirk:
-:joy:
-:rage:
 
-* 1번
-* 2번
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**볼드** <br>
-*이탤릭* <br>
-~~스트라이크~~ <br>
+
+
+
+
+
+
+
+
 
 
