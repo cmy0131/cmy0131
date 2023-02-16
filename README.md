@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=80&section=header&fontSize=40&text=IT%20전문가%20지망생&animation=scaleln)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=80&section=header&fontSize=40&text=IT%20전문가&animation=scaleln)
 
 ```
-"안녕 나는 미래의 IT 전문가야 잘 부탁해"
+"Hi"
 ```
 
 <!-- <image src='images/감자.png' width=200 height=200></image> -->
