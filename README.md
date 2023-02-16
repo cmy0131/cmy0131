@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmy0131&layout=compact&theme=dracula)](https://github.com/cmy0131/github-readme-stats)
 
-![Python](https://img.shields.io/badge/-Python-123456?style=flat-square&logo=Python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-123456?style=flat-square&logo=Javascript&logoColor=blue)
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-Springboot-3178C6?style=flat-square&logo=Springboot&logoColor=white)
