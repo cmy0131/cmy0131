@@ -12,7 +12,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-007396?style=flat&logo=Html&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007396?style=flat&logo=Css&logoColor=ffffff)
-![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=black)
+![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-123456?style=flat-square&logo=Javascript&logoColor=blue)
 ![Jquery](https://img.shields.io/badge/-Jquery-123456?style=flat-square&logo=Jquery&logoColor=blue)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-FD5750?style=flat-square&logo=Thymeleaf&logoColor=magenta)
